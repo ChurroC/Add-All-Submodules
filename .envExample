@@ -1,0 +1,2 @@
+IGNORE_DIRS_ARRAY = '.dontwantthis,nope,as,manyas,you,want'
+START_DIR = 'C:/Wow'
